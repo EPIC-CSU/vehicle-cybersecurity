@@ -1,4 +1,4 @@
-# vehicle-cybersecurity
+# Vehicle CAN Cybersecurity with Machine Learning
 
 Today’s vehicles are complex distributed cyber-phsyical systems that are increasingly being connected to various external systems. Unfortunately, this increased connectivity makes the vehicles vulnerable to security attacks that can be catastrophic. We have developed a novel Intrusion Detection System (IDS) called INDRA that utilizes a Gated Recurrent Unit (GRU) based recurrent autoencoder to detect anomalies in Controller Area Network (CAN) bus-based automotive cyber-phsyical systems. 
 
